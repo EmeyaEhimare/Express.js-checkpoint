@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    gap: 20px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
